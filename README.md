@@ -1,6 +1,6 @@
 # Ali Hassan
 📞 +1-850-345-8403 | 📧 razaahassan8@gmail.com | 🌐 [alihassanportfolio.com](http://alihassanportfolio.com)  
-📍 Tallahassee, FL (Open to Relocation) | [LinkedIn](https://www.linkedin.com/in/ali-hassan-raza)
+📍 Tallahassee, FL (Open to Relocation) | [LinkedIn](https://www.linkedin.com/in/ali-hassan-raza) | [Google Scholar](https://scholar.google.com/citations?user=mvyMz98AAAAJ&hl=en)
 
 ---
 
@@ -61,24 +61,24 @@ I am a PhD candidate in Electrical Engineering at **Florida A&M University**, gr
 **Brain-to-Car commands using MUSE headband**  
 - Achieved **92.7% classification accuracy** and **0.0114 MSE (speed prediction)**  
 - Used: CNNs, Fisher LDA, ICA, STFT, Python  
-- 📄 [Paper PDF](./MUSE_Headband%20(14).pdf)
+- 📄 *Publication in process*
 
 ### 🔹 Speech Depression Recognition (E-DAIC Dataset)
 **Transformer + GAN model improved RMSE to 3.783**  
 - Outperformed SoTA by **10%**  
-- 📄 [SoutheastCon 2024 Paper](https://www.researchgate.net/publication/380090208_A_Comprehensive_Analysis_of_Speech_Depression_Recognition_Systems)
+- 📄 [Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10500078)
 
 ### 🔹 Deepfake Voice Depression Detection
 **SpecRNet + CNN-GRU hybrid for authenticating and detecting depression**  
 - Accuracy: **95.27%**, AUC: **99.99%**  
 - Dataset: Modified DAIC-WOZ  
-- 📄 [IEEE UV 2024 Paper](./IEEE_UV2024_revised_paper_5476%20(2).pdf)
+- 📄 *Publication in process*
 
 ### 🔹 IoT Vessel Monitoring System
 **BPSK-modulated GPS communication across 25,000 vessels**  
 - 300 km coverage, 80% cost reduction  
 - Tools: Arduino, Python, Baofeng UV-5R, GPS  
-- 📄 [SoutheastCon 2024 Paper](./Internet_of_Things-Enabled_Vessel_Monitoring_System_for_Enhanced_Maritime_Safety_and_Tracking_at_Sea.pdf)
+- 📄 [Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10500190)
 
 ### 🔹 AI-Based Dots and Boxes Game
 **Deep Q-Network (DQN) + MCTS for strategic gameplay**  
@@ -88,17 +88,17 @@ I am a PhD candidate in Electrical Engineering at **Florida A&M University**, gr
 
 ## 📚 Publications
 
-1. **Ali Hassan**, *Internet of Things-Enabled Vessel Monitoring System for Enhanced Maritime Safety and Tracking at Sea*, IEEE SoutheastCon 2024  
-   📄 [PDF](./Internet_of_Things-Enabled_Vessel_Monitoring_System_for_Enhanced_Maritime_Safety_and_Tracking_at_Sea.pdf)
+1. **[Internet of Things-Enabled Vessel Monitoring System for Enhanced Maritime Safety and Tracking at Sea](https://ieeexplore.ieee.org/abstract/document/10500190)**  
+   *IEEE SoutheastCon 2024*
 
-2. **Ali Hassan, Dr. Shonda Bernadin**, *A Comprehensive Analysis of Speech Depression Recognition Systems*, IEEE SoutheastCon 2024  
-   📄 [ResearchGate Link](https://www.researchgate.net/publication/380090208)
+2. **[A Comprehensive Analysis of Speech Depression Recognition Systems](https://ieeexplore.ieee.org/abstract/document/10500078)**  
+   *IEEE SoutheastCon 2024*
 
-3. **Ali Hassan, Dr. Shonda Bernadin**, *Investigating Threat of Deepfake Voice Manipulation on Psychological Security*, IEEE UV 2024  
-   📄 [PDF](./IEEE_UV2024_revised_paper_5476%20(2).pdf)
+3. **Investigating Threat of Deepfake Voice Manipulation on Psychological Security**  
+   *IEEE Universal Village 2024* — *Publication in process*
 
-4. **Ali Hassan, et al.**, *EEG-Based Brain-Computer Interface for Actuating Car Commands using the MUSE Headband*  
-   📄 [PDF](./MUSE_Headband%20(14).pdf)
+4. **EEG-Based Brain-Computer Interface for Actuating Car Commands Using the MUSE Headband**  
+   *IEEE SoutheastCon 2025* — *Publication in process*
 
 ---
 
@@ -116,10 +116,9 @@ I am a PhD candidate in Electrical Engineering at **Florida A&M University**, gr
 - ✉️ Email: [razaahassan8@gmail.com](mailto:razaahassan8@gmail.com)  
 - 🌐 Portfolio: [alihassanportfolio.com](http://alihassanportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/ali-hassan-raza](https://www.linkedin.com/in/ali-hassan-raza)  
-- 📁 GitHub: [github.com/your-username](#) *(Update this)*  
+- 📁 Google Scholar: [scholar.google.com](https://scholar.google.com/citations?user=mvyMz98AAAAJ&hl=en)
 
 ---
 
 > *“Bridging AI, healthcare, and neuroscience to build ethical and impactful technologies.”*  
 > — *Ali Hassan*
-
